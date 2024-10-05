@@ -1,0 +1,14 @@
+D:\Projetos DIO\ExemploPOO\obj\Debug\net8.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos DIO\ExemploPOO\obj\Debug\net8.0\ExemploPOO.AssemblyInfoInputs.cache
+D:\Projetos DIO\ExemploPOO\obj\Debug\net8.0\ExemploPOO.AssemblyInfo.cs
+D:\Projetos DIO\ExemploPOO\obj\Debug\net8.0\ExemploPOO.csproj.CoreCompileInputs.cache
+D:\Projetos DIO\ExemploPOO\bin\Debug\net8.0\ExemploPOO.exe
+D:\Projetos DIO\ExemploPOO\bin\Debug\net8.0\ExemploPOO.deps.json
+D:\Projetos DIO\ExemploPOO\bin\Debug\net8.0\ExemploPOO.runtimeconfig.json
+D:\Projetos DIO\ExemploPOO\bin\Debug\net8.0\ExemploPOO.dll
+D:\Projetos DIO\ExemploPOO\bin\Debug\net8.0\ExemploPOO.pdb
+D:\Projetos DIO\ExemploPOO\obj\Debug\net8.0\ExemploPOO.dll
+D:\Projetos DIO\ExemploPOO\obj\Debug\net8.0\refint\ExemploPOO.dll
+D:\Projetos DIO\ExemploPOO\obj\Debug\net8.0\ExemploPOO.pdb
+D:\Projetos DIO\ExemploPOO\obj\Debug\net8.0\ExemploPOO.genruntimeconfig.cache
+D:\Projetos DIO\ExemploPOO\obj\Debug\net8.0\ref\ExemploPOO.dll
